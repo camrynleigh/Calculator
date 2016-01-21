@@ -1,0 +1,22 @@
+body {
+    background-image: url("http://www.pptbackgroundstemplates.com/backgrounds/calculator_ppt_backgrounds.jpg");
+}
+
+p{
+    font-size: 80px;
+    text-align: center;
+    color: navy;
+    font-family: 'Londrina Shadow', cursive;
+}
+
+#add {
+    margin-left: 200px;
+}
+
+#sub {
+    margin-left: 200px;
+}
+
+#mul {
+    margin-left: 200px;
+}
